@@ -7,6 +7,6 @@ A student is considered to have passed the class if the average value of their g
 Given the passing mark and a student's grades, find out if they have successfully passed the class or not.
   
     
-__powersOfTwo__
+__powersOfTwo__  
 Every positive integer can be uniquely represented as a sum of different positive powers of two.
 Given a number n, return a sorted array of different powers of two that sum up to n.
